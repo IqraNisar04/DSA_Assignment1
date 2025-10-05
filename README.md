@@ -82,13 +82,13 @@ dsa-assignment1/
 
 **Polynomial ADT:**
 ```bash
-g++ main1.cpp polynomial.cpp -o polynomial
+g++ main1.cpp iqranisar_501191_polynomial.cpp -o polynomial
 ./polynomial
 
 **Text Editor:**
-g++ main2.cpp texteditor.cpp -o texteditor
+g++ main2.cpp iqranisar_501191_texteditor.cpp -o texteditor
 ./texteditor
 
 **UNO Game:**
-g++ main3.cpp uno.cpp -o uno
+g++ main3.cpp iqranisar_501191_uno.cpp -o uno
 ./uno
